@@ -16,6 +16,24 @@
       "revId": "f02e6926d2f3549501b73b8e0101bd99ea6efc55",
       "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
       "unresolved": false
+    },
+    {
+      "key": {
+        "uuid": "fa81d914_8c1c6379",
+        "filename": "python-tooz.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1001933
+      },
+      "writtenOn": "2016-01-20T21:24:55Z",
+      "side": 1,
+      "message": "See https://bugzilla.redhat.com/show_bug.cgi?id\u003d1299909#c0 for details.",
+      "parentUuid": "fa81d914_4c2b4b94",
+      "revId": "f02e6926d2f3549501b73b8e0101bd99ea6efc55",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
     }
   ]
 }
