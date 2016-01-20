@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "fa81d914_4c2b4b94",
+        "filename": "python-tooz.spec",
+        "patchSetId": 1
+      },
+      "lineNbr": 35,
+      "author": {
+        "id": 1001933
+      },
+      "writtenOn": "2016-01-20T21:22:59Z",
+      "side": 1,
+      "message": "I don\u0027t understand why you put this constraint while we want at least 0.8.6.",
+      "revId": "f02e6926d2f3549501b73b8e0101bd99ea6efc55",
+      "serverId": "d5d70762-12d0-45a1-890d-524b12d3f735",
+      "unresolved": false
+    }
+  ]
+}
