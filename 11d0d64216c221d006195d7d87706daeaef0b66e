@@ -1,0 +1,7 @@
+Verified+1: rdo-ci-jenkins <whayutin+rdocijenkins@redhat.com>
+Code-Review+2: David Moreau Simard <dms@redhat.com>
+Submitted-by: David Moreau Simard <dms@redhat.com>
+Submitted-at: Thu, 21 Jan 2016 21:45:15 +0100
+Reviewed-on: https://review.gerrithub.io/260456
+Project: openstack-packages/python-tooz
+Branch: refs/heads/rpm-master
